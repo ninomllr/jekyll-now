@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Nino!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am an entrepreneur with a background in information technology. I believe that we have to tackle the big challenges that this world faces as communities. If we work together we will find solutions. This is why I am all about helping to bring people together and working in interdisciplinary groups on new projects. I am passionate about digitalisation, smart cities, international relations, communities as well as food, climbing and hiking - actually mountains and their nature in general.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nino.mueller@gmail.com](mailto:nino.mueller@gmail.com)
